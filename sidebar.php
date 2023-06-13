@@ -18,10 +18,10 @@
             </a>
           </li>
           <li class="nav-item dropdown">
-            <a href="./index.php?page=result" class="nav-link nav-result">
+            <a href="./index.php?page=evaluate" class="nav-link nav-evaluate">
               <i class="nav-icon fas fa-th-list"></i>
               <p>
-                Evaluation Result
+                Evaluate
               </p>
             </a>
           </li> 

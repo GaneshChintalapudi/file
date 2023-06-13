@@ -10,7 +10,7 @@ function ordinal_suffix1($num){
     }
     return $num.'th';
 }
-$astat = array("Not Yet Started","On-going","Closed");
+$astat = array("Not Yet Started","Started","Closed");
  ?>
 
 <div class="col-12">
